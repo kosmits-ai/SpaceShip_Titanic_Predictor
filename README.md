@@ -37,5 +37,5 @@ The goal of the challenge is to **predict whether a passenger was transported to
 ---
 
 ##  Files in Repository  
-- `sale_price_predictor.ipynb` → Full notebook workflow  
+- `spaceshiptitanic_predictor.ipynb` → Full notebook workflow  
 - `train.csv`, `test.csv` → Kaggle datasets  
